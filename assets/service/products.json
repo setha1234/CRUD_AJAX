@@ -1,0 +1,12 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "image": "https://i.pinimg.com/736x/16/b8/1b/16b81b5f35d3f497a8df4234d27584d3.jpg",
+            "name": "shirt_01",
+            "price": 9.99,
+            "qty": 10,
+            "dec": "Uncover your ideal tee with our guide to everyday and premium shirt options. From casual styles to high-quality fabrics, find the perfect fit for any occasion. Elevate your wardrobe with versatile choices that combine comfort and style. Shop now for the best selection!"
+        }
+    ]
+}
