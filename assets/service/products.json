@@ -1,52 +1,36 @@
 {
   "products": [
     {
-      "id": "1",
-      "image": "https://i.pinimg.com/736x/16/b8/1b/16b81b5f35d3f497a8df4234d27584d3.jpg",
-      "name": "shirt_01",
-      "price": 9.99,
-      "qty": 10,
-      "dec": "Uncover your ideal tee with our guide to everyday and premium shirt options. From casual styles to high-quality fabrics, find the perfect fit for any occasion. Elevate your wardrobe with versatile choices that combine comfort and style. Shop now for the best selection!"
-    },
-    {
-      "id": "",
-      "image": "https://www.archanaskitchen.com/images/archanaskitchen/World_Beverages/Mulled_Apple_Juice_Recipe-1_400.jpg",
-      "name": "Setha Sith",
-      "price": "3.0",
-      "qty": 10,
-      "dec": "sdfasdfa"
-    },
-    {
-      "id": "",
-      "image": "https://i.pinimg.com/736x/24/00/9c/24009cc499aaaf5a973f391aa67bdf38.jpg",
-      "name": "Orange Juice",
-      "price": 10,
-      "qty": 10,
-      "dec": "sdsdfasdf"
-    },
-    {
       "id": "405c",
-      "image": "https://i.pinimg.com/736x/59/25/87/5925874a675fcebb4c60d7673248905a.jpg",
-      "name": "Jean",
-      "price": 25,
+      "image": "https://www.hannahlavery.co.za/cdn/shop/files/MensShirtWhite19.jpg?v=1701765679",
+    "name": "Long Shirt",
+    "price": 18.9,
+    "qty": 34,
+    "dec": "Mens Mandarin Long Shir"
+    },
+    {
+      "id": "879d",
+      "image": "https://www.hannahlavery.co.za/cdn/shop/files/MensShirtWhite19.jpg?v=1701765679",
+      "name": "Long Shirt",
+      "price": 18.9,
+      "qty": 34,
+      "dec": "Mens Mandarin Long Shir"
+    },
+    {
+      "id": "a411",
+      "image": "https://www.beyours.in/cdn/shop/files/black-classic-shirt.jpg?v=1744815740",
+      "name": "Classic Shirt",
+      "price": 1.5,
+      "qty": 10,
+      "dec": "Buy Black Classic Shirt For Men's Online | Beyours"
+    },
+    {
+      "id": "b74a",
+      "image": "https://www.beyours.in/cdn/shop/files/black-classic-shirt.jpg?v=1744815740",
+      "name": "Black Classic Shirt",
+      "price": 18.6,
       "qty": 100,
-      "dec": "sdfasdfasdfaw"
-    },
-    {
-      "id": "72ec",
-      "image": "",
-      "name": "",
-      "price": null,
-      "qty": null,
-      "dec": ""
-    },
-    {
-      "id": "46e7",
-      "image": "https://i.pinimg.com/736x/24/00/9c/24009cc499aaaf5a973f391aa67bdf38.jpg",
-      "name": "IT Supporter",
-      "price": 3,
-      "qty": 344,
-      "dec": "sdfadfa"
+      "dec": "Buy Black Classic Shirt For Men's Online | Beyours"
     }
   ]
 }
